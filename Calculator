@@ -1,8 +1,12 @@
 cout<<"Zarkhan Altaf:";
 cout<<"St-09:";
 int num1=5, num2=3;
+ Multiplication
  Division
 cout<<"division:"<<(5/3) ;
 
 cout<<"multiplication:"<<(5*3) ;
  Multiplication
+
+cout<<"subtract:"<<(5-3) ;
+ Subtraction
