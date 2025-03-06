@@ -1,2 +1,4 @@
 cout<<"Zarkhan Altaf:";
 cout<<"St-09:";
+int num1=5, num2=3;
+cout<<"division:"<<(5/3) ;
